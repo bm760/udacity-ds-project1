@@ -26,10 +26,10 @@ With healthcare costs skyrocketing, it is more important than ever for patients 
 - there is potential confounds because of imbalanced data, particularly around ownership structure and profit motive
 
 ### Libraries used:
-- matplotlib == 3.5.3
-- pandas == 1.3.5
-- seaborn == 0.12.2
-- scikit-learn == 1.0.2
+- matplotlib==3.5.3
+- pandas==1.3.5
+- seaborn==0.12.2
+- scikit-learn==1.0.2
 
 ### Acknowledgements:
 - Udacity data scientist program | introduction to data science and supervised machine learning
