@@ -25,7 +25,7 @@ With healthcare costs skyrocketing, it is more important than ever for patients 
 - the model I created had 0.52 R-squared, indicating a relationship between the features (health outcomes + ownership model + profit motive) and the target (rating)
 - there is potential confounds because of imbalanced data, particularly around ownership structure and profit motive
 
-### Packages:
+### Libraries used:
 - matplotlib == 3.5.3
 - pandas == 1.3.5
 - seaborn == 0.12.2
