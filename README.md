@@ -25,9 +25,14 @@ With healthcare costs skyrocketing, it is more important than ever for patients 
 - the model I created had 0.52 R-squared, indicating a relationship between the features (health outcomes + ownership model + profit motive) and the target (rating)
 - there is potential confounds because of imbalanced data, particularly around ownership structure and profit motive
 
+### Packages:
+- matplotlib == 3.5.3
+- pandas == 1.3.5
+- seaborn == 0.12.2
+- scikit-learn == 1.0.2
+
 ### Acknowledgements:
-- Udacity data scientist program | introduction to data science and supervised machine learning 
-- technologies: python | jupyter | scikitlearn | pandas | matplotlib | seaborn
+- Udacity data scientist program | introduction to data science and supervised machine learning
 - CKD and Dialysis background information sourced from :
 
 [1] Centers for Disease Control and Prevention. Chronic Kidney Disease in the United States, 2023. Atlanta, GA: US Department of Health and Human Services, Centers for Disease Control and Prevention; 2023. https://www.cdc.gov/kidney-disease/php/data-research/index.html
